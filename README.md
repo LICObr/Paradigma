@@ -1,8 +1,5 @@
 # Paradigmas de Linguagens de Programação
 
-**Aluno:** Danilo Mori Schuler
-**RA:** 24391649-2
-
 Atividades da disciplina, uma pasta por aula. Cada pasta tem seu próprio
 README com o enunciado, o código e as respostas.
 
